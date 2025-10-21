@@ -1,0 +1,6 @@
+# Excluir carpeta .vs
+.vs/
+.vsidx/
+# Excluir archivos de sistema
+Thumbs.db
+.DS_Store
